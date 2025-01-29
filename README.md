@@ -35,6 +35,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![eraser](https://img.shields.io/badge/eraser-FF4040?style=for-the-badge&logo=eraser&logoColor=white) 
 
 
 #### ⚙️ **Frameworks**
