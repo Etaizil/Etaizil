@@ -37,38 +37,38 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-
 #### ⚙️ **Frameworks & Websites**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![eraser](https://img.shields.io/badge/eraser-FF4040?style=for-the-badge&logo=eraser&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/ROS%202-22313F?style=for-the-badge&logo=ros&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SpaceX](https://img.shields.io/badge/SpaceX-000000?style=for-the-badge&logo=spacex&logoColor=white)
 
 ---
-
  
 ### 🚀 **Some Projects I've Been Working On**:
-🔹 [**Neural Network Binary Classification Using NumPy**](https://github.com/Etaizil/NN_binary_classification_numpy)  
-🔹 [**Neural Network Binary And Multiclass Classification**](https://github.com/Etaizil/NN_binary_multiclass_classification)  
-🔹 [**Book Scrabble Game - Server Side**](https://github.com/Etaizil/Book_Scrabble_Backend)  
+🔹 [**Neural Network Binary Classification Using NumPy**](https://github.com/Etaizil/NN_binary_classification_numpy)   
+🔹 [**Neural Network Binary And Multiclass Classification**](https://github.com/Etaizil/NN_binary_multiclass_classification)   
+🔹 [**Book Scrabble Game - Server Side**](https://github.com/Etaizil/Book_Scrabble_Backend)   
+🔹 [**Coffee Shop Website**](https://github.com/CoffeeShopTeam/CoffeeShopRepo)   
+ 
 
 ---
 
 ### 📫 **Connect with Me:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/etaizilberman/) 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Etaizil) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/etaizilberman/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zilbermanetai@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/etaizilberman/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Etaizil)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/etaizilberman/) 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1054704905006366831)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21hw2h2nplxnazq5gn2x66wcq)
 
 ---
 
-### **See My Work Below** ⬇️
+## **See My Work Below** ⬇️
 
