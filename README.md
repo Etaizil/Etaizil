@@ -49,14 +49,15 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SpaceX](https://img.shields.io/badge/SpaceX-000000?style=for-the-badge&logo=spacex&logoColor=white)
 
----
- 
+<!--
+
 ### 🚀 **Some Projects I've Been Working On**:
 🔹 [**Neural Network Binary Classification Using NumPy**](https://github.com/Etaizil/NN_binary_classification_numpy)   
 🔹 [**Neural Network Binary And Multiclass Classification**](https://github.com/Etaizil/NN_binary_multiclass_classification)   
 🔹 [**Book Scrabble Game - Server Side**](https://github.com/Etaizil/Book_Scrabble_Backend)   
 🔹 [**Coffee Shop Website**](https://github.com/CoffeeShopTeam/CoffeeShopRepo)   
- 
+
+ -->
 
 ---
 
@@ -70,5 +71,5 @@
 
 ---
 
-## **See My Work Below** ⬇️
+## 🚀 **Some Projects I've Been Working On** ⬇️
 
