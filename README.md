@@ -58,7 +58,11 @@
 🔹 [**Coffee Shop Website**](https://github.com/CoffeeShopTeam/CoffeeShopRepo)   
 
  -->
-
+ 
+<!--
+---
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Etaizil)
+-->
 ---
 
 ### 📫 **Connect with Me:**
