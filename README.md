@@ -58,12 +58,6 @@
 🔹 [**Coffee Shop Website**](https://github.com/CoffeeShopTeam/CoffeeShopRepo)   
 
  -->
- 
-<!--
----
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Etaizil)
--->
----
 
 ### 📫 **Connect with Me:**
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zilbermanetai@gmail.com)
