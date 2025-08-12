@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=italic&pause=1000&color=69B31CF0&background=FFFFFF00&width=435&lines=Software+Developer)](https://git.io/typing-svg)
 
-💻 **3rd Year Computer Science Student** | 🤖 **Tech Enthusiast** | 🎵 **Music Lover** | 🚀 **Space Nerd** 🎗️
+💻 **B.Sc Computer Science** | 🤖 **Tech Enthusiast** | 🎵  **Music and Space Lover** 🚀 | 🎗️
 
 ---
 
